@@ -6,7 +6,7 @@ public class ReverseNumber {
 	{
 		Scanner sc = new Scanner(System.in); //Scanner is a class it will accept the value from the user at runtime
 		
-		System.out.println("Enter a Number : ");
+		   System.out.println("Enter a Number : ");
 		
 		int num = sc.nextInt(); //num = 1234 //nextInt() method accepts value from user and store in num variable
 		
